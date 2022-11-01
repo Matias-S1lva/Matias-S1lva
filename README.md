@@ -15,7 +15,7 @@ const aboutMe = {
       },
       backEnd: {
          js: ["Node", "Express"],
-         csharp: ["Asp.net Core"],
+         csharp: ["Asp.net Core",".NET 5"],
       },
       databases: ["MongoDB", "mySQL", "SQLServer"],
    },
