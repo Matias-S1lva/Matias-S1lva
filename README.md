@@ -33,4 +33,4 @@ const aboutMe = {
  - [LinkedIn] (https://www.linkedin.com/in/matias-silva-9a66a0218/)
  - [Twitter] (https://twitter.com/MatiasLeandroo7)
 
-[Portfolio] 💼 (https://nodejs-firts-fazt.herokuapp.com/)
+[Portfolio] 💼 (https://matias-s1lva.github.io/portafolio-2.0/)
