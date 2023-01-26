@@ -15,9 +15,9 @@ const aboutMe = {
       },
       backEnd: {
          js: ["Node", "Express"],
-         csharp: ["Asp.net Core",".NET 5"],
+         C#: ["Asp.net",".NET"],
       },
-      databases: ["MongoDB", "mySQL", "SQLServer"],
+      databases: ["MongoDB", "MySql", "SQLServer"],
    },
    currentOccupation: ["last year student, open for job opportunities"],
 };
