@@ -7,19 +7,20 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript,  HTML, CSS, CSharp],
+   code: [Javascript,  HTML, CSS, C#],
    technologies: {
       frontEnd: {
+         C#: ["Razor"]
          js: ["React"],
          css: ["Bootstrap", "Material Design", "Semantic UI", "Saas"]
       },
       backEnd: {
          js: ["Node", "Express"],
-         C#: ["Asp.net",".NET"],
+         C#: ["Asp.net",".NET", "Entity Framework"],
       },
-      databases: ["MongoDB", "MySql", "SQLServer"],
+      databases: ["SQLServer","MySql"],
    },
-   currentOccupation: ["last year student, open for job opportunities"],
+   currentOccupation: ["Advanced student and .Net developer at Digital Solutions"],
 };
 ```
 </br></br>
@@ -31,6 +32,5 @@ const aboutMe = {
 
  You can find me 📩
  - [LinkedIn] (https://www.linkedin.com/in/matias-silva-9a66a0218/)
- - [Twitter] (https://twitter.com/MatiasLeandroo7)
 
 [Portfolio] 💼 (https://matias-s1lva.github.io/portafolio-2.0/)
